@@ -4,24 +4,6 @@
 
 ---
 
-## About Me  
-I am a **Master’s student specializing in Intelligent Systems (AI)** at the **University of Coimbra**, continuing my studies in **Computer Science and Engineering** from the University of Algarve. My main focus is on **Machine Learning and AI applications**.  
-
-🔹 Passionate about **Artificial Intelligence & Deep Learning**  
-🔹 Enthusiastic about **Active Learning & Data-Driven Decision Making**  
-🔹 Interested in **Medical AI & Optimization Algorithms**  
-
----
-
-## Tech Stack & Tools  
-💻 **Current Programming Language:** Python  
-🔬 **AI & ML Frameworks:** TensorFlow, PyTorch, Scikit-Learn  
-📊 **Data Science Tools:** Pandas, NumPy, Matplotlib, Seaborn  
-⚙️ **Development:** VSCode, Jupyter Notebook, Anaconda  
-📂 **Version Control:** Git, GitHub  
-
----
-
 ## 📌 Featured Projects  
 
 ### **Active Learning for Pneumonia Detection**  
