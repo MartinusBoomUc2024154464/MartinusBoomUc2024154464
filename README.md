@@ -19,7 +19,21 @@ University of Coimbra
 - Applied **feature selection & clustering** for patient stratification  
 - Focused on **medical AI applications** for improved healthcare outcomes  
 
-**Repo:** [ML_CovidPatientStratification](https://github.com/MartinusBoomUc2024154464/ML_CovidPatientStratification.git)  
+**Repo:** [ML_CovidPatientStratification](https://github.com/MartinusBoomUc2024154464/ML_CovidPatientStratification.git)
+
+### **Chasing Phishing URLs**  
+- **Phishing URL detection** using multiple **ML classifiers** (MDC, Bayes, k-NN, SVM)  
+- Explored **feature selection**, **scaling**, **PCA/LDA**, and **SMOTE** to improve generalization  
+- Comprehensive **cross-validation** and **test-set evaluation** on the **PhiUSIIL** dataset  
+
+**Repo:** [ChasingPhishingURLs](https://github.com/MartinusBoomUc2024154464/Chasing-Phishing-URLs.git)  
+
+### **Survival of the Softest: Evolving Adaptive Soft Robots**  
+- **Evolutionary computation** for soft robots in **EvoGym**  
+- Implemented **GA**, **ES**, and **DE** to optimize **morphology** and **neural controllers**  
+- Phased approach: **structure-only**, **controller-only**, and **co-evolution**  
+
+**Repo:** [SurvivalOfTheSoftest](https://github.com/MartinusBoomUc2024154464/Survival-of-the-Softest--Evolving-Adaptive-Soft-Robots.git)
 
 ---
 
