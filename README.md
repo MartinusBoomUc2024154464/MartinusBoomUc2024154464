@@ -35,6 +35,14 @@ University of Coimbra
 
 **Repo:** [SurvivalOfTheSoftest](https://github.com/MartinusBoomUc2024154464/Survival-of-the-Softest--Evolving-Adaptive-Soft-Robots.git)
 
+### **Cardiac Risk Prediction using Classical Machine Learning Techniques**  
+- Predicted **cardiac risk** from structured **clinical data**  
+- Compared **Decision Tree**, **Logistic Regression**, **Neural Network**, **KNN**, and **Naïve Bayes**  
+- Evaluated setups **with/without SMOTE**; optimized for **Sensitivity** (medical priority)  
+- Applied **statistical tests** (Friedman, Wilcoxon-Holm) to validate differences  
+
+**Repo:** [CardiacRiskPrediction](https://github.com/MartinusBoomUc2024154464/Cardiac-Risk-Prediction.git)
+
 ---
 
 ## Connect with Me  
